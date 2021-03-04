@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73764dbb-86f5-439b-89a5-0227a2ca76d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Traits/UserTrait.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/jetstream.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/jetstream.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614826643621</updated>
       <workItem from="1614826644672" duration="175000" />
-      <workItem from="1614826828383" duration="4021000" />
+      <workItem from="1614826828383" duration="5637000" />
     </task>
     <task id="LOCAL-00001" summary="Instalacion de Jetstream">
       <created>1614827538088</created>
@@ -196,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614827538088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Migraciones de base de datos">
+      <created>1614831146231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614831146231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,13 +218,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Instalacion de Jetstream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instalacion de Jetstream" />
+    <MESSAGE value="Migraciones de base de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migraciones de base de datos" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1614827594765">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1614831147862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1614827594765" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1614831147862" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1614830019046">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
